@@ -17,6 +17,6 @@ The proposed research is expected to result in the development of new AI systems
 The proposed research aims to tackle one of the most significant challenges in astronomy and astrophysics: detecting and analyzing black holes. The development of AI systems for black hole detection and analysis has the potential to revolutionize our understanding of the universe and provide new insights into the nature of space, time, and gravity. This research proposal outlines a comprehensive methodology that will enable us to address this question and make significant progress towards the development of AI systems for black hole detection and analysis. 
 
 ## References
-[1] A. Loeb, "The Future of Black Hole Astronomy", Physics Today, vol. 74, no. 9, pp. 34-40, 2021.
-[2] J. Greene, "AI and Astronomy: The Next Big Thing?", Scientific American, vol. 325, no. 1, pp. 64-69, 2021.
-[3] M. C. Miller, "How Do You Find a Black Hole in Space?", Sky & Telescope, vol. 139, no. 1, pp. 26-31, 2020.
+###### [1] A. Loeb, "The Future of Black Hole Astronomy", Physics Today, vol. 74, no. 9, pp. 34-40, 2021.
+###### [2] J. Greene, "AI and Astronomy: The Next Big Thing?", Scientific American, vol. 325, no. 1, pp. 64-69, 2021.
+###### [3] M. C. Miller, "How Do You Find a Black Hole in Space?", Sky & Telescope, vol. 139, no. 1, pp. 26-31, 2020.
